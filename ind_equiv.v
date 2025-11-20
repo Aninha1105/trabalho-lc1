@@ -31,4 +31,7 @@ Proof.
 
 Theorem PIM_equiv_PIF: PIM <-> PIF.
 Proof.
-  (* Substitua esta linha pela sua prova*) Admitted.
+  split.
+  - exact PIM_to_PIF.
+  - exact PIF_to_PIM.
+Qed.
