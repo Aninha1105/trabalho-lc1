@@ -25,7 +25,7 @@ forall n, Q n.
 (** Prove que estes princípios são equivalentes: *)
 
 (** -----------------------------------------------------------------
-    LEMA 1: Indução Forte implica Indução Padrão 
+    LEMA 1: Indução Forte implica Indução Matemática 
     -----------------------------------------------------------------
     Estratégia: Assumimos que o PIF é válido e tentamos provar o PIM.
     Mostramos que a condição "se vale para todos m < n" é suficiente
@@ -47,7 +47,7 @@ Proof.
 Qed.
 
 (** -----------------------------------------------------------------
-    LEMA 2: Indução Padrão implica Indução Forte
+    LEMA 2: Indução Matemática implica Indução Forte
     -----------------------------------------------------------------
     Estratégia: O PIM é "fraco" (só olha para k-1). Para provar o PIF,
     criamos um predicado acumulativo auxiliar:
