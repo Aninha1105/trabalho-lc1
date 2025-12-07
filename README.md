@@ -45,6 +45,6 @@ Caso encontre problemas, opte pela execução local.
 
 ## Autores
 
-- Ana Luísa de Souza Paraguassu  
-- Arthur Menezes Botelho  
-- Pedro Lucas Pereira Neris
+- Ana Luísa de Souza Paraguassu - 231003442
+- Arthur Menezes Botelho - 231003362
+- Pedro Lucas Pereira Neris - 231018964
