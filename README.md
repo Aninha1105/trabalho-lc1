@@ -8,7 +8,7 @@ O objetivo é demonstrar formalmente, utilizando o assistente de provas **Rocq/C
 ## Estrutura do Repositório
 ``` bash
 ├── ind_equiv.v # Código em Rocq/Coq contendo as provas formais
-└── relatorio.pdf # Relatório com explicações e desenvolvimento do projeto
+└── Relatório_LC1.pdf # Relatório com explicações e desenvolvimento do projeto
 ```
 
 ## Sobre o Projeto
